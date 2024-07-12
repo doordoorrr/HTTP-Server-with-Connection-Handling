@@ -1,5 +1,4 @@
-# csc2770-prog-challenge-2-adburchfie42
-HTTP Server with Connection Handling
+# HTTP Server with Connection Handling
 
 This program sets up a simple HTTP server to handle incoming connections. It's a basic tool for learning about network programming and building lightweight web applications.
 
